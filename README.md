@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad!
+# 👋 Hi There , My name is Mohammad Salim!
 
 I'm a passionate **SE Bachelor Graduate** with a knack for low-level programming, DevOps, and game development. I enjoy crafting efficient solutions, automating workflows, and exploring the intersection of art and technology. Currently, I'm focused on building my terminal emulator project, **Minishell**, as part of my journey at [42 Amman](https://42network.org/).
 
