@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad!
 
-I'm a passionate **Software Engineering Graduate** with a knack for low-level programming, DevOps, and game development. I enjoy crafting efficient solutions, automating workflows, and exploring the intersection of art and technology. Currently, I'm focused on building my terminal emulator project, **Minishell**, as part of my journey at [42 Amman](https://42network.org/).
+I'm a passionate **Software Engineering Graduate** with a knack for Automation, low-level programming, DevOps, and game development. I enjoy crafting efficient solutions, automating workflows, and exploring the intersection of art and technology. Currently, I'm focused on building my terminal emulator project, **Minishell**, as part of my journey at [42 Amman](https://42network.org/).
 
 ---
 
