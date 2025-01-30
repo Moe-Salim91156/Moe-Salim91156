@@ -59,4 +59,4 @@ I'm a passionate **Software Engineering Graduate** with a knack for Automation, 
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-salim-4142432a0/)  
-- 📧 [Email](mohammadisleem43@gmail.com)
+- 📧 Email : mohammadisleem43@gmail.com
