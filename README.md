@@ -30,14 +30,17 @@ I'm a passionate **Software Engineering Graduate** with a knack for Automation, 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks and Tools
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -48,15 +51,23 @@ I'm a passionate **Software Engineering Graduate** with a knack for Automation, 
 
 ---
 
+## 🖥️ Other Tools & Technologies
+
+- 💻 **Linux Terminals**: Bash, Zsh, and other Unix shell environments.  
+- 🖥 **PowerShell**: Scripting and automation on Windows.  
+- 📝 **Notion**: Organizing workflows, project documentation, and productivity.
+
+---
+
 ## 🌱 What I'm Working On
 
-- 🔧 **Minishell**: A custom terminal emulator project.
-- 🎮 **Game Development**: Automating workflows in Unreal Engine 5.
-- 🚀 **DevOps**: Building scalable, automated solutions with AWS and Docker.
+- 🔧 **Minishell**: A custom terminal emulator project.  
+- 🎮 **Game Development**: Automating workflows in Unreal Engine 5.  
+- 🚀 **DevOps**: Building scalable, automated solutions with AWS and Docker.  
 
 ---
 
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-salim-4142432a0/)  
-- 📧 Email : mohammadisleem43@gmail.com
+- 📧 Email: mohammadisleem43@gmail.com
