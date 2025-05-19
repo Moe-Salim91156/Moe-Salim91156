@@ -59,9 +59,12 @@ I'm a passionate **Software Engineering Graduate** with a knack for Automation, 
 
 ## 🌱 What I'm Working On
 
-- 🔧 **Minishell**: A custom terminal emulator project.  
-- 🎮 **Game Development**: Automating workflows in Unreal Engine 5.  
-- 🚀 **DevOps**: Building scalable, automated solutions with AWS and Docker.  
+- 🔧 **42 Amman** :
+    - Projects : advancing in the journey of 42 curriculum, sharpening my programming/SE skills Daily! 
+    - Robotics and Automation Club (RAAS): co-founder/Vice president and responsible for the automation plan in the club where we focus on automation with bash, python and advanced concepts & automation tools.
+    - Deep Dive Nerds Group (DDN): a small org originaly founded within 42 , its simply a group of Nerds explaning and deep diving into various concepts for students by doing workshops weekly! 
+- 🎮 **Game Design**: Automating workflows in Unreal Engine 5, and im Responsible for level/enviornment Design in an indie game dev studio.
+- 🚀 **DevOps**: Building scalable, automated solutions with Devops services and practices on various platforms. 
 
 ---
 
