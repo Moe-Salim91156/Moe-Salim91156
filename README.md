@@ -54,6 +54,7 @@ I'm a passionate **Software Engineering Graduate** with a knack for Automation, 
 - 💻 **Linux Terminals**: Bash, Zsh, and other Unix shell environments.  
 - 🖥 **PowerShell**: Scripting and automation on Windows.  
 - 📝 **Notion**: Organizing workflows, project documentation, and productivity.
+      - similar Tools : *Jira*, *trello*, and many more.
 
 ---
 
