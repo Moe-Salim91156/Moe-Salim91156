@@ -80,7 +80,7 @@ I'm a passionate **Software Engineering Graduate** with a knack for Automation, 
 - 🎮 **Game Design**: Automating workflows in Unreal Engine 5, procedural room layouts using PCG graphs, and handling level/environment design in our indie studio.
 - 🚀 **DevOps**: Building scalable, automated systems with Docker, GitHub Actions, Bash/Python scripts, Terraform, and CI/CD on multiple platforms.
 - 🤖 **Shell Automation Projects**: I enjoy building tools and scripts that automate tasks, system configs, workflows, and server monitoring.
-- 💥 **Coding Without AI**: I often challenge myself to solve problems purely through thinking, research, and experimentation—especially in C, Bash, and systems design.
+- 💥 **Coding With/Without AI**: I often challenge myself to solve problems purely through thinking, research, and experimentation—especially in C, Bash, and systems design.
 
 ---
 
