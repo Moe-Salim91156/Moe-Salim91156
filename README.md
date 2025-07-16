@@ -53,7 +53,7 @@ I'm a passionate **Software Engineering Graduate** with a knack for Automation, 
 ## 🧠 Low-Level & Debugging Tools
 
 ![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)  
-![Valgrind](https://img.shields.io/badge/Valgrind%20(GNU)-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind%20?style=for-the-badge&logo=gnu&logoColor=white)
 
 - Mastering memory management and debugging in C through Valgrind, GDB, and 42-style projects.
 - Adhering to the [42 Norm](https://github.com/42School/norminette) coding standard with clean, readable, and strict C code.
