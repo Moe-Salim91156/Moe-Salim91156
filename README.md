@@ -45,27 +45,51 @@ I'm a passionate **Software Engineering Graduate** with a knack for Automation, 
 
 ### Game Development
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)  
-*Designing maps with various themes and automating workflows in Unreal Engine 5.*
+*Designing maps with various themes and automating workflows in Unreal Engine 5.*  
+*Exploring Procedural Content Generation (PCG) to make levels gameplay-reactive and modular.*
+
+---
+
+## 🧠 Low-Level & Debugging Tools
+
+![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white)  
+![Valgrind](https://img.shields.io/badge/Valgrind-652F6C?style=for-the-badge&logo=valgrind&logoColor=white)  
+
+- Mastering memory management and debugging in C through Valgrind, GDB, and 42-style projects.
+- Adhering to the [42 Norm](https://github.com/42School/norminette) coding standard with clean, readable, and strict C code.
 
 ---
 
 ## 🖥️ Other Tools & Technologies
 
 - 💻 **Linux Terminals**: Bash, Zsh, and other Unix shell environments.  
+- ⚙️ **Vim/Neovim**: Fluent in terminal-based coding workflows.  
 - 🖥 **PowerShell**: Scripting and automation on Windows.  
 - 📝 **Notion**: Organizing workflows, project documentation, and productivity.
-      - similar Tools : *Jira*, *trello*, and many more.
+  - Similar Tools: *Jira*, *Trello*, etc.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-salim&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-salim&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+</p>
 
 ---
 
 ## 🌱 What I'm Working On
 
 - 🔧 **42 Amman** :
-    - Projects : advancing in the journey of 42 curriculum, sharpening my programming/SE skills Daily! 
-    - Robotics and Automation Club (RAAS): co-founder/Vice president and responsible for the automation plan in the club where we focus on automation with bash, python and advanced concepts & automation tools.
-    - Deep Dive Nerds Group (DDN): a small org originaly founded within 42 , its simply a group of Nerds explaning and deep diving into various concepts for students by doing workshops weekly! 
-- 🎮 **Game Design**: Automating workflows in Unreal Engine 5, and im Responsible for level/enviornment Design in an indie game dev studio.
-- 🚀 **DevOps**: Building scalable, automated solutions with Devops services and practices on various platforms. 
+    - Projects: advancing in the journey of the 42 curriculum, sharpening my programming/SE skills daily. 
+    - Robotics and Automation Club (RAAS): co-founder/Vice president and responsible for the automation plan in the club, focusing on Bash, Python, and advanced tools.
+    - Deep Dive Nerds Group (DDN): a nerdy tech org founded at 42 for deep-diving into topics like OS internals, Linux, AI tools, and more—through weekly workshops.
+- 🎮 **Game Design**: Automating workflows in Unreal Engine 5, procedural room layouts using PCG graphs, and handling level/environment design in our indie studio.
+- 🚀 **DevOps**: Building scalable, automated systems with Docker, GitHub Actions, Bash/Python scripts, Terraform, and CI/CD on multiple platforms.
+- 🤖 **Shell Automation Projects**: I enjoy building tools and scripts that automate tasks, system configs, workflows, and server monitoring.
+- 💥 **Coding Without AI**: I often challenge myself to solve problems purely through thinking, research, and experimentation—especially in C, Bash, and systems design.
 
 ---
 
@@ -73,3 +97,4 @@ I'm a passionate **Software Engineering Graduate** with a knack for Automation, 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-salim-4142432a0/)  
 - 📧 Email: mohammadisleem43@gmail.com
+
