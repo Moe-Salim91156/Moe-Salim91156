@@ -68,15 +68,6 @@ I'm a passionate **Software Engineering Graduate** with a knack for Automation, 
 - 📝 **Notion**: Organizing workflows, project documentation, and productivity.
   - Similar Tools: *Jira*, *Trello*, etc.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-salim&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammad-salim&theme=tokyonight&hide_border=false" alt="GitHub streak" />
-</p>
 
 ---
 
