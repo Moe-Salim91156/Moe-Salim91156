@@ -87,7 +87,7 @@ I'm a passionate **Software Engineering Graduate** with a strong focus on **Auto
 * **42 Robotics & Automation Club (RAAS)** — co-founder / vice president, focusing on automation plans, Bash & Python tooling, and systems-oriented learning.
 * **42 Deep Dive Nerds (DDN)** — organizing and contributing to deep technical discussions and workshops on OS internals, Linux, DevOps, and AI tooling.
 * **Open Source Contributions** — contributing to public repositories, improving tooling, fixing bugs, and learning through real-world codebases.
-* **Backend & DevOps Projects** — building health-check services and automation using Go, Django, Docker, CI/CD, and Terraform.
+* **Backend & DevOps Projects** — building services & automating using Go, Django, Docker, CI/CD, and Terraform.
 * **Game Development Tooling** — procedural level systems, PCG workflows, and automation inside Unreal Engine 5.
 * **AI-assisted Automation** — experimenting with local LLMs and AI-powered CLI tools to enhance developer workflows.
 
