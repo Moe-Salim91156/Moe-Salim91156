@@ -83,11 +83,13 @@ I'm a passionate **Software Engineering Graduate** with a strong focus on **Auto
 
 ## 🌱 What I'm Working On
 
-* Advancing through the 42 core curriculum
-* Backend services & health checks using Go and Django
-* DevOps automation with Docker, CI/CD, and Terraform
-* Unreal Engine procedural level systems
-* AI-assisted automation experiments
+* **42 Core Curriculum Projects** — progressing through low-level, systems, and software engineering projects at 42 Amman.
+* **42 Robotics & Automation Club (RAAS)** — co-founder / vice president, focusing on automation plans, Bash & Python tooling, and systems-oriented learning.
+* **42 Deep Dive Nerds (DDN)** — organizing and contributing to deep technical discussions and workshops on OS internals, Linux, DevOps, and AI tooling.
+* **Open Source Contributions** — contributing to public repositories, improving tooling, fixing bugs, and learning through real-world codebases.
+* **Backend & DevOps Projects** — building health-check services and automation using Go, Django, Docker, CI/CD, and Terraform.
+* **Game Development Tooling** — procedural level systems, PCG workflows, and automation inside Unreal Engine 5.
+* **AI-assisted Automation** — experimenting with local LLMs and AI-powered CLI tools to enhance developer workflows.
 
 ---
 
