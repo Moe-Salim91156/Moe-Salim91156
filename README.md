@@ -28,7 +28,7 @@ Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&
 
 ## 🌩️ Cloud Platforms
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Modal](https://img.shields.io/badge/Modal-171717?style=for-the-badge&logo=modal&logoColor=white)
