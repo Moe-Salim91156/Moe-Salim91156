@@ -96,8 +96,6 @@ Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=
 
 ## 🧰 Tools & IDEs
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![VS
 Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -107,6 +105,14 @@ Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visua
 Desktop](https://img.shields.io/badge/Docker_Desktop-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ------------------------------------------------------------------------
+
+## OS & Distros
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+------------------------------------------------------------------------
+
 
 ## 🎮 Game Development
 
